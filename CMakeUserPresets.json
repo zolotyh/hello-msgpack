@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/Users/zolotyh/sandbox/cmake-simple-project/build/Release/generators/CMakePresets.json"
+    ]
+}
