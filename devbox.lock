@@ -1,0 +1,65 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "cmake@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#cmake",
+      "source": "devbox-search",
+      "version": "3.26.4",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/2jxr49h8mx20079xvgrzicwk1cfnl0cl-cmake-3.26.4"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/y749glp3j8x5dkmr5rbi9li6vpwj3iwy-cmake-3.26.4"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/zb41b8ydiacljd0cz9p7b11az01sda6r-cmake-3.26.4"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/yi235g10sp8jx939zpfli0s74154ph3v-cmake-3.26.4"
+        }
+      }
+    },
+    "conan@latest": {
+      "last_modified": "2023-10-01T23:11:39Z",
+      "resolved": "github:NixOS/nixpkgs/f8be2c43b4b1c1aec02f741ae909696b8410ebc1#conan",
+      "source": "devbox-search",
+      "version": "2.0.5",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/1dq6rfyfc35z30fbygm5byfbsysqrmnf-conan-2.0.5"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/adf0avcdiiayy09ynv75xc31093i8wd3-conan-2.0.5"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/mq255bgq0xs08zvjrznxbsijjk5affzh-conan-2.0.5"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/xlibs73sx0pks7xck8qnfi2hrplahwfv-conan-2.0.5"
+        }
+      }
+    },
+    "gnumake@latest": {
+      "last_modified": "2023-09-27T18:02:17Z",
+      "resolved": "github:NixOS/nixpkgs/517501bcf14ae6ec47efd6a17dda0ca8e6d866f9#gnumake",
+      "source": "devbox-search",
+      "version": "4.4.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/221p2yp3dlb6dxr93iidq4gpx9i25n81-gnumake-4.4.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/7j6z1qfnwbl6ixa7gwki112hp1rk7f55-gnumake-4.4.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/gy3qhhljpwjhmn6s4l2hnwh1nwg0p779-gnumake-4.4.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/5rdxplg3cczslq4banvk3449ry5k9hx7-gnumake-4.4.1"
+        }
+      }
+    }
+  }
+}
